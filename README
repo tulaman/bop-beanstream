@@ -1,0 +1,6 @@
+All rights reserved. This program is free software; you can redistribute it
+and/or modify it under the same terms as Perl itself.
+
+This is Business::OnlinePayment::Beanstream, an Business::OnlinePayment
+backend module for Beanstream.  It is only useful if you have a merchant
+account with Beanstream: http://www.beanstream.com
